@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Coindrop Guru and various freelance projects.**
 
-- 👯 I’m looking to collaborate on **freelance, open source, and volunteer-based opportunities.**
+- 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
 
 - 👨‍💻 All of my projects are available at [jsalaski.com](jsalaski.com)
 
