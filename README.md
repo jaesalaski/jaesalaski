@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: check out my resume
 
-- ⚡ Fun fact **I am a pinball geek**
+- ⚡ Fun fact: **I am a pinball geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
