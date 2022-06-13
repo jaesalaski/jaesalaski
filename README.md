@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
 
-- 👨‍💻 All of my projects are available at [jsalaski.com](jsalaski.com)
+- 👨‍💻 All of my projects are available at [jsalaski.com](https://www.jsalaski.com)
 
 - 📫 How to reach me **hello@jsalaski.com**
 
