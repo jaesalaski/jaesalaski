@@ -1,7 +1,7 @@
 <h3 align="center">A passionate full stack developer from Minneapolis.</h3>
 
-<p align="left"> <a href="https://twitter.com/jsalaski" target="blank"><img src="https://img.shields.io/twitter/follow/jsalaski?logo=twitter&style=for-the-badge" alt="jsalaski" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/jsalaski" target="blank"><img src="https://img.shields.io/twitter/follow/jsalaski?logo=twitter&style=for-the-badge" alt="jsalaski" /></a> </p>
+ -->
 - 🔭 I’m currently working on **Twelve Vultures and CoinDrop Guru.**
 
 - 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
