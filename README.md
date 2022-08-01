@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hello@jsalaski.com**
 
-- 📄 Know about my experiences: check out my resume
+- 📄 Know about my experiences: check out my [resume](https://www.jsalaski.com/resume/J%20Salaski%20Software%20Engineer.pdf)
 
 - ⚡ Fun fact: **I am a pinball geek**
 
