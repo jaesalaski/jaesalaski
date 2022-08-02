@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences: check out my [resume](https://www.jsalaski.com/resume/J%20Salaski%20Software%20Engineer.pdf)
 
-- ⚡ Fun fact: **I am a pinball geek**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/jsalaski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsalaski" height="30" width="40" /></a>
