@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
 
-- 👨‍💻 My recent projects are available at [jsalaski.com](https://www.jsalaski.com)
+- 👨‍💻 My recent projects are available at [jsalaski.com](https://www.jsalaski.com).
 
-- 📫 How to reach me: **hello@jsalaski.com**
+- 📫 How to reach me: [hello@jsalaski.com](mailto:hello@jsalaski.com).
 
-- 📄 Want to know more about my experience? Check out my [resume](https://www.jsalaski.com/resume/J%20Salaski%20Software%20Engineer.pdf)
+- 📄 Want to know more about my experience? Check out my [resume](https://www.jsalaski.com/resume/J%20Salaski%20Software%20Engineer.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
