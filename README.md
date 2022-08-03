@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/jsalaski" target="blank"><img src="https://img.shields.io/twitter/follow/jsalaski?logo=twitter&style=for-the-badge" alt="jsalaski" /></a> </p>
  -->
-- 🔭 I’m currently working on **Twelve Vultures and Stranify**
+- 🔭 I’m currently working on **Twelve Vultures and Genderstanding**
 
 - 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
 
