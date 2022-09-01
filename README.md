@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: [hello@jsalaski.com](mailto:hello@jsalaski.com).
 
-- 📄 Want to know more about my experience? Check out my [resume](https://www.jsalaski.com/resume/J%20Salaski%20Software%20Engineer.pdf).
+- 📄 Want to know more about my experience? Check out my [resume](https://www.jsalaski.com/J%20Salaski%20Software%20Engineer.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
