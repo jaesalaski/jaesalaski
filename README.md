@@ -8,9 +8,9 @@
 
 - 👨‍💻 My recent projects are available at [jsalaski.com](https://www.jsalaski.com).
 
-- 📫 How to reach me: [hello@jsalaski.com](mailto:hello@jsalaski.com).
+- 📫 Reach me at: [hello@jsalaski.com](mailto:hello@jsalaski.com).
 
-- 📄 Want to know more about my experience? Check out my [resume](https://www.jsalaski.com/J%20Salaski%20Software%20Engineer.pdf).
+- 📄 Check out my [resume](https://www.jsalaski.com/J%20Salaski%20Software%20Engineer.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
