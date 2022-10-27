@@ -10,7 +10,7 @@
 
 - 📫 Reach me at: [hello@jsalaski.com](mailto:hello@jsalaski.com).
 
-- 📄 Check out my [resume](https://www.jsalaski.com/J%20Salaski%20Software%20Engineer.pdf).
+- 📄 Check out my [resume](https://www.jsalaski.com/Jae%20Salaski%20Software%20Engineer.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
