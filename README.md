@@ -8,7 +8,7 @@
 
 - 👨‍💻 My recent projects are available at [jsalaski.com](https://www.jsalaski.com).
 
-- 📫 Reach me at: [hello@jsalaski.com](mailto:hello@jsalaski.com).
+- 📫 Reach me at: [j@salaski.net](mailto:j@salaski.net).
 
 - 📄 Check out my [resume](https://www.jsalaski.com/Jae%20Salaski%20Software%20Engineer.pdf).
 
