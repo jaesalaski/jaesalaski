@@ -1,33 +1,113 @@
-<h3 align="center">A passionate full stack developer from Minneapolis.</h3>
+<div id="header" align="center">
+  <h1>Hi 👋, I'm Jae Salaski</h1>
+  <h3>A Minneapolis-based full-stack software engineer.</h3>
+  <a href="https://jsalaski.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=aaceb8&style=flat&logo=react"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jsalaski/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=aaceb8&style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/jsalaski" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=aaceb8&style=flat&logo=twitter"/>
+  </a>
+</div>
 
-<!-- <p align="left"> <a href="https://twitter.com/jsalaski" target="blank"><img src="https://img.shields.io/twitter/follow/jsalaski?logo=twitter&style=for-the-badge" alt="jsalaski" /></a> </p>
- -->
-- 🔭 I’m currently working on **Twelve Vultures and Genderstanding**
+## About Me:
 
-- 👯 I’m looking to collaborate on **freelance, open source, and other interesting opportunities.**
+- 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and [Twelve Vultures](http://codebyj.com). I am also contributing to [Together](https://github.com/Caleb-Cohen/Together).
 
-- 👨‍💻 My recent projects are available at [jsalaski.com](https://www.jsalaski.com).
+- 🤝 I’m happy to answer any questions, feel welcome to **reach out**!
 
-- 📫 Reach me at: [j@salaski.net](mailto:j@salaski.net).
+- 👨‍💻 All of my projects are available at [https://jsalaski.com](https://jsalaski.com)
 
-- 📄 Check out my [resume](https://www.jsalaski.com/Jae%20Salaski%20Software%20Engineer.pdf).
+- 📫 Email me at **jae@salaski.net**
 
-<h3 align="left">Connect with me:</h3>
+## Projects and Contributions:
+
+<table bordercolor="#66b2b2">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Genderstanding</h3>
+        <br />
+        <a target="_blank" href="https://genderstanding.cyclic.app/">
+            <img src="images/TOGETHER.gif" width="100%" alt"Genderstanding: advancing understanding for all"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/jsalaski/genderstanding" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=aaceb8&style=flat&logo=github"/>
+          </a>  
+          <a href="https://genderstanding.cyclic.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CAAACE&style=flat&logo=react"/>
+          </a>
+      </p>
+      <p><strong>Embedded JavaScript, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Full-stack web application dedicated to advancing understanding surrounding gender identity.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Together</h3>
+        <br />
+        <a target="_blank" href="https://together.cyclic.app/">
+            <img src="images/TOGETHER.gif" width="100%" alt="100Devs Community Calendar App"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=aaceb8&style=flat&logo=github"/>
+          </a>  
+          <a href="https://together.cyclic.app/" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CAAACE&style=flat&logo=react"/>
+          </a>
+      </p>
+      <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Create and view community-wide events for the 40,000 member 100Devs Agency Discord.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Twelve Vultures</h3>
+        <br />
+        <a target="_blank" href="codebyj.com">
+            <img src="images/twelve-vultures.gif" width="100%" alt="Twelve Vultures"/>
+        </a>
+        <br />
+        <p align="center">
+        <a href="http://codebyj.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CAAACE&style=flat&logo=react"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, CSS, HTML</strong> - Client work - Modern showcase of natural history, curiosities, and ephemera.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Cystic Fibrosis Relief Fund</h3>
+        <br />
+        <a target="_blank" href="https://cfrelieffund.org/">
+            <img src="images/cf-relief-fund.gif" width="100%"  alt="Cystic Fibrosis Relief Fund"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://cfrelieffund.org/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CAAACE&style=flat&logo=react"/>
+          </a>
+      </p>
+      <p><strong>JavaScript, CSS, HTML</strong> - Client work - A responsive, easy-to-navigate modern site for a local nonprofit organization.</p>
+    </td>
+  </tr>
+</table>
+
+## Languages and Tools:
+
 <p align="left">
-  <a href="https://twitter.com/jsalaski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsalaski" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jsalaski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsalaski" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=aaceb8&style=flat&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=aaceb8&style=flat&logo=javascript"/>
+<img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=aaceb8&style=flat&logo="/> 
+<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=aaceb8&style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/static/v1?label=|&message=SQL&color=aaceb8&style=flat&logo=sql"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=aaceb8&style=flat&logo=postgres"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=aaceb8&style=flat&logo=bootstrap"/>
+<img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=aaceb8&style=flat&logo=express"/>
+<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=aaceb8&style=flat&logo=html5"/>
+<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=aaceb8&style=flat&logo=css3"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=GIT&color=aaceb8&style=flat&logo=git"/> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/ </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     </p>
-    
+</p>
