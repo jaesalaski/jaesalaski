@@ -68,7 +68,7 @@
       <h3 align="center">Twelve Vultures</h3>
         <br />
         <a target="_blank" href="codebyj.com">
-            <img src="images/twelve-vultures.gif" width="100%" alt="Twelve Vultures"/>
+            <img src="images/twelvegifsmall.gif" width="100%" alt="Twelve Vultures"/>
         </a>
         <br />
         <p align="center">
