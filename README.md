@@ -82,7 +82,7 @@
       <h3 align="center">Cystic Fibrosis Relief Fund</h3>
         <br />
         <a target="_blank" href="https://cfrelieffund.org/">
-            <img src="images/cfrf.gif" width="100%"  alt="Cystic Fibrosis Relief Fund"/>
+            <img src="images/cfrfsmall.gif" width="100%"  alt="Cystic Fibrosis Relief Fund"/>
         </a>
         <br />
         <p align="center">
