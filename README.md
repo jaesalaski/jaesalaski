@@ -31,7 +31,7 @@
       <h3 align="center">Genderstanding</h3>
         <br />
         <a target="_blank" href="https://genderstanding.cyclic.app/">
-            <img src="images/genderstanding.webm" width="100%" alt"Genderstanding: advancing understanding for all"/>
+            <img src="images/genderstanding.gif" width="100%" alt"Genderstanding: advancing understanding for all"/>
         </a>
         <br />
         <p align="center">
