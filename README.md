@@ -48,7 +48,7 @@
       <h3 align="center">Together</h3>
         <br />
         <a target="_blank" href="https://together.cyclic.app/">
-            <img src="images/TOGETHER.gif" width="100%" alt="100Devs Community Calendar App"/>
+            <img src="images/together.gif" width="100%" alt="100Devs Community Calendar App"/>
         </a>
         <br />
         <p align="center">
@@ -82,7 +82,7 @@
       <h3 align="center">Cystic Fibrosis Relief Fund</h3>
         <br />
         <a target="_blank" href="https://cfrelieffund.org/">
-            <img src="images/cf-relief-fund.gif" width="100%"  alt="Cystic Fibrosis Relief Fund"/>
+            <img src="images/cfrf.gif" width="100%"  alt="Cystic Fibrosis Relief Fund"/>
         </a>
         <br />
         <p align="center">
