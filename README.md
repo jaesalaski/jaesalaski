@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and [Twelve Vultures](http://codebyj.com). I am also contributing to [Together](https://github.com/Caleb-Cohen/Together).
 
-- 🤝 I’m happy to answer any questions, feel welcome to **reach out**!
+- 🤝 I’m happy to answer any questions, please **reach out**!
 
 - 👨‍💻 All of my projects are available at [https://jsalaski.com](https://jsalaski.com)
 
