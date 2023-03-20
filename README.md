@@ -4,7 +4,7 @@
   <a href="https://jsalaski.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=aaceb8&style=flat&logo=react"/>
   </a>
-  <a href="https://www.linkedin.com/in/jsalaski/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaesalaski/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=aaceb8&style=flat&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/jsalaski" target="_blank">
@@ -35,7 +35,7 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/jsalaski/genderstanding" target="_blank">
+          <a href="https://github.com/jEsalaski/genderstanding" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=aaceb8&style=flat&logo=github"/>
           </a>  
           <a href="https://genderstanding.cyclic.app/" target="_blank">
