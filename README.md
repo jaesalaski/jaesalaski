@@ -72,7 +72,7 @@
         </a>
         <br />
         <p align="center">
-        <a href="http://codebyj.com" target="_blank">
+        <a href="http://www.twelvevultures.com" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=CAAACE&style=flat&logo=react"/>
         </a>
       </p>
