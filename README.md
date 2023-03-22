@@ -35,7 +35,7 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/jEsalaski/genderstanding" target="_blank">
+          <a href="https://github.com/jaesalaski/genderstanding" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=aaceb8&style=flat&logo=github"/>
           </a>  
           <a href="https://genderstanding.cyclic.app/" target="_blank">
