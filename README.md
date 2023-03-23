@@ -18,7 +18,7 @@
 
 - 🤝 I’m happy to answer any questions, don't hesitate to **reach out**!
 
-- 👨‍💻 All of my projects are available at [https://jsalaski.com](https://jsalaski.com)
+- 👨‍💻 All of my projects are available at [https://jaesalaski.com](https://jaesalaski.com)
 
 - 📫 Email me at **jae@salaski.net**
 
