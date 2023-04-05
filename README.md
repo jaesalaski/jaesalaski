@@ -14,7 +14,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and [Twelve Vultures](http://codebyj.com). I am also contributing to [Together](https://github.com/Caleb-Cohen/Together).
+- 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and [Lavender Book](https://lavenderbook.org/). I recently finished working with [Twelve Vultures](twelvevultures.com).
 
 - 🤝 I’m happy to answer any questions, don't hesitate to **reach out**!
 
