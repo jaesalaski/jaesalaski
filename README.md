@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi 👋, I'm Jae Salaski!</h1>
+  <h1>Hi 👋, I'm Jae Salaski</h1>
   <h3>A Minneapolis-based full-stack software engineer.</h3>
   <a href="https://jsalaski.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=aaceb8&style=flat&logo=react"/>
