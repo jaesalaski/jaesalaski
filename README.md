@@ -14,7 +14,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and Coindrop. I recently finished creating [Twelve Vultures](https://twelvevultures.com)
+- 🔭 I’m currently working on [Genderstanding](https://genderstanding.cyclic.app/) and Coindrop. I recently finished creating [Twelve Vultures](https://twelvevultures.com).
 
 - 🤝 I’m happy to answer any questions, don't hesitate to **reach out**!
 
