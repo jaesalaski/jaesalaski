@@ -20,8 +20,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jaesalaski.com](https://www.jsalaski.com/)
 
-- 📫 Email me at **jae@salaski.net**
-
 ## Projects and Contributions:
 
 <table bordercolor="#66b2b2">
